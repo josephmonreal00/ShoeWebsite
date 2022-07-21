@@ -2,6 +2,10 @@
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSpaStaticFiles(configuration =>
+{
+    configuration.RootPath = "Client/ClientApp/dist";
+});
 
 var app = builder.Build();
 

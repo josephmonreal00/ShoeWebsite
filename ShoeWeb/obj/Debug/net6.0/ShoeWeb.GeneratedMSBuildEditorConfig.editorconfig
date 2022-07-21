@@ -8,37 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ShoeWeb
 build_property.RootNamespace = ShoeWeb
-build_property.ProjectDir = /Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb/
+build_property.ProjectDir = /Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb
+build_property.MSBuildProjectDirectory = /Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb/Views/Home/Index.cshtml]
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Home/Mens.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NZW5zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb/Views/Shared/Error.cshtml]
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Home/Womens.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Xb21lbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb/Views/_ViewImports.cshtml]
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Shop/ForSummer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9Gb3JTdW1tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Shop/Mens.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9NZW5zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Shop/Womens.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9Xb21lbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb/Views/_ViewStart.cshtml]
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/josephmonreal/Projects/ShoeWebsite/ShoeWeb/Views/Shared/_Layout.cshtml]
+[/Users/josephmonreal/Documents/ShoeWebsiteLocal/ShoeWebsite/ShoeWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9xovkrbjv7
